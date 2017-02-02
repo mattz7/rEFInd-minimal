@@ -56,7 +56,9 @@ The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
 
 The background is [Minimalist Wallpaper][wallpaper] by
 [LeonardoAIanB][wallpaper-author]. Thank you to [Padster][padster] for locating
-it!
+it! It is licensed under CC BY 3.0.
+
+Wallpaper cyan is my remix of Minimalist Wallpaper
 
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icon-author]: http://sworiginal.deviantart.com/
